@@ -335,7 +335,7 @@ This **ADDIE-inspired loop** ensures the project evolves through real classroom 
 | **Name** | Prashanthi |
 | **Designation** | Senior Instructional Designer | Process Trainer | QA & Process Improvement Specialist |
 | **LinkedIn** | [Prashanthi Narayan Rao](https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/) |
-|**GPT Used**    |[Number Quiz Fun].(https://chatgpt.com/canvas/shared/68fa1b1a53088191956026c8ea889683)|
+|**GPT Used**    |[Number Quiz Fun].(https://chatgpt.com/canvas/shared/68fa1b1a53088191956026c8ea889683).|
 | **Year** | 2025 |
 
 
