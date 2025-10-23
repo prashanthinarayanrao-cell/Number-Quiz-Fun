@@ -119,8 +119,7 @@ This design promotes confidence through repetition, fun visuals, and positive re
 ---
 
 
-### 💻 Live Demo
-👉 [Click here to play the quiz](https://your-live-demo-link.com)
+
 
 
 ---
