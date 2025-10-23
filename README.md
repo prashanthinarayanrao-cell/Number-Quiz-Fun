@@ -29,26 +29,6 @@ Welcome to **Number Quiz Fun**, an interactive counting game built using **JavaS
 | 🎈 **Balloon Rewards** | Balloons and animations for correct answers! |
 | 📊 **Score Tracker** | Real-time score counter with fun feedback sounds. |
 
-
-## 🧰 Technologies Used
-## 🚀 How to Run
-
-
-1. Clone the repository:
-```bash
-git clone https://github.com/prashanthi/number-quiz-fun.git
-```
-2. Open the project folder:
-```bash
-cd number-quiz-fun
-```
-3. Launch the game:
-```bash
-open index.html
-```
-Or simply drag and drop it into your browser.
-
-
 ---
 
 
