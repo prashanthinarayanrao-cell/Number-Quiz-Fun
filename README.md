@@ -239,33 +239,58 @@ The creation of **Number Quiz Fun** followed a structured **AI + Instructional D
 IDEA 💡
 │
 ├── 🎯 Identify learning goal:
+
 │ → Help Grade 1 students understand “before, after, between” numbers
+
 │
+
 ├── 🧠 Instructional Design Stage:
+
 │ → Apply Scaffolding, ARCS, Gamification, UDL, and RCA principles
+
 │ → Define simple explanations for wrong answers
+
 │
 ├── 🤖 AI Prompt Engineering:
+
 │ → Draft initial prompt for GPT-5
+
 │ → Instruct AI to generate simulation code (HTML, CSS, JS)
+
 │ → Add features: color, voice, feedback, and score tracking
+
 │
+
 ├── 🎨 UI & Experience Design:
+
 │ → Bright, gradient backgrounds
+
 │ → Large clickable buttons for small hands 👆
+
 │ → Balloons 🎈 and voice praise 🗣️ for positive reinforcement
+
 │
 ├── 🧪 Testing & Refinement:
+
 │ → Verify all 60 questions (after, before, between)
+
 │ → Adjust difficulty and pacing
+
 │ → Improve voice tone and speech speed
+
 │
 ├── 🏁 Prototype Delivery:
+
 │ → Final HTML/JS simulation deployed
+
 │ → Uploaded to GitHub for classroom and portfolio use
+
 │
+
 └── 🌟 Outcome:
+
 → Interactive learning game with child-friendly UI, voice feedback,
+
 positive reinforcement, and measurable learning engagement!
 
 ____
