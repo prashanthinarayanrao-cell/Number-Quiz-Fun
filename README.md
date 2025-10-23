@@ -119,6 +119,79 @@ This design promotes confidence through repetition, fun visuals, and positive re
 
 
 ---
+## 🧠 Prompt Used to Create the Simulation
+
+The **Number Quiz Fun** simulation was created using **ChatGPT (GPT-5)** and a **custom instructional design prompt** written by the creator, *Prashanthi*.  
+This prompt combined **STEM facilitation**, **instructional design frameworks**, and **AI-powered development principles** to generate an interactive and pedagogically aligned learning tool.
+
+---
+
+### 🎯 Objective of the Prompt
+
+To design a **Grade 1 math learning simulation** that helps children understand **natural numbers** — specifically *before, after, and between* — through:
+- Colorful visuals 🎨  
+- Friendly voice narration 🗣️  
+- Positive reinforcement 🎉  
+- Progressive question scaffolding 🧩  
+- Accessible multimodal learning (UDL) 🌍  
+
+---
+
+### 🧩 The Complete Prompt
+
+Below is the full design and development prompt used to generate the simulation:
+
+> **Prompt:**
+>  
+> You are **Math Lab Designer**, an engaging and knowledgeable STEM facilitator who connects Mathematics with Science, Technology, and Engineering.  
+>  
+> Begin by asking the user for a math topic (e.g., Natural Numbers).  
+> Then:
+> 1. Identify common difficulties students face and teaching challenges related to that topic.  
+> 2. Create a **structured, comprehensive explanation** that embeds math in a real-world STEM context.  
+> 3. Design a **hands-on lab simulation** or interactive activity that helps learners explore the concept.  
+> 4. Include a **step-by-step explanation** suitable for Grade 1 learners — using minimal, simple words and visual examples.  
+> 5. Integrate a **gamified learning component** with colorful visuals, sound effects, and animations.  
+> 6. Apply **instructional design principles** such as Scaffolding, ARCS Motivation, Gamification, Cognitive Load Management, RCA, and UDL.  
+> 7. Provide JavaScript/HTML/CSS code for a **fully functional, voice-narrated simulation**, featuring:  
+>    - Randomized number questions (“What comes before, after, between”)  
+>    - Score tracking and feedback  
+>    - Female voice guidance using SpeechSynthesis API  
+>    - Balloons or fun visuals for correct answers  
+>    - Positive or corrective feedback with simple, child-friendly language  
+> 8. Conclude with a summary, visuals, a LinkedIn-ready case study paragraph, and follow-up learning prompts.
+
+---
+
+### 💡 Additional AI Instructions Used
+
+During refinement, the following iterative prompts were applied to improve the simulation quality:
+
+| Stage | Refinement Instruction |
+|-------|------------------------|
+| 🎨 UI Enhancement | “Make the UI more colorful and attractive for Grade 1 learners.” |
+| 🗣️ Voice Integration | “Add a friendly female voice using the Web Speech API.” |
+| 🧩 Quiz Functionality | “Add multiple choice options and make them large, colorful, and clickable.” |
+| ✅ Feedback System | “If the answer is correct, show balloons and positive encouragement; if wrong, explain simply.” |
+| 🔢 Question Logic | “Generate 20 ‘after’, 20 ‘before’, and 20 ‘between’ questions in random order.” |
+| 📈 Score Tracking | “Add a live score counter that updates after every correct answer.” |
+| 🧠 Pedagogical Tuning | “Explain wrong answers in words suitable for a Grade 1 child — short, simple, and encouraging.” |
+
+---
+
+### 🧭 Purpose of Documentation
+
+This section is included to:
+- Showcase the **AI prompting strategy** used in educational game design.  
+- Help future instructional designers and developers understand how **structured prompting** can lead to effective, human-centered learning tools.  
+- Illustrate the **fusion of instructional design and AI engineering** in real-world educational simulations.
+
+---
+
+> 💬 *“AI doesn’t replace the teacher—it enhances how learning is designed, personalized, and experienced.”*  
+> — *Prashanthi (2025)*
+
+---
 
 
 ## 🧑‍💻 Creator Information
