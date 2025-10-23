@@ -87,7 +87,8 @@ This design promotes confidence through repetition, fun visuals, and positive re
 | **Name** | Prashanthi |
 | **Designation** | Senior Instructional Designer | Process Trainer | QA & Process Improvement Specialist |
 | **LinkedIn** | [Prashanthi Narayan Rao](https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/) |
-| **GitHub** | [Number Quiz Fun](https://github.com/prashanthi/number-quiz-fun) |
+| **GPT used** | [Math Lab Designer](https://chatgpt.com/g/g-68f64bf9b2688191bf035d4bd473080d-math-lab-designer) |
+|**Tested**    |Using Number Quiz Fun-https://chatgpt.com/canvas/shared/68fa1b1a53088191956026c8ea889683
 | **Year** | 2025 |
 
 
