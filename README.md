@@ -237,12 +237,10 @@ The creation of **Number Quiz Fun** followed a structured **AI + Instructional D
 ### 🧭 Workflow Summary
 
 IDEA 💡
-│
+
 ├── 🎯 Identify learning goal:
 
 │ → Help Grade 1 students understand “before, after, between” numbers
-
-│
 
 ├── 🧠 Instructional Design Stage:
 
@@ -250,7 +248,6 @@ IDEA 💡
 
 │ → Define simple explanations for wrong answers
 
-│
 ├── 🤖 AI Prompt Engineering:
 
 │ → Draft initial prompt for GPT-5
@@ -258,8 +255,6 @@ IDEA 💡
 │ → Instruct AI to generate simulation code (HTML, CSS, JS)
 
 │ → Add features: color, voice, feedback, and score tracking
-
-│
 
 ├── 🎨 UI & Experience Design:
 
@@ -269,7 +264,6 @@ IDEA 💡
 
 │ → Balloons 🎈 and voice praise 🗣️ for positive reinforcement
 
-│
 ├── 🧪 Testing & Refinement:
 
 │ → Verify all 60 questions (after, before, between)
@@ -278,22 +272,17 @@ IDEA 💡
 
 │ → Improve voice tone and speech speed
 
-│
 ├── 🏁 Prototype Delivery:
 
 │ → Final HTML/JS simulation deployed
 
 │ → Uploaded to GitHub for classroom and portfolio use
 
-│
-
 └── 🌟 Outcome:
 
 → Interactive learning game with child-friendly UI, voice feedback,
 
 positive reinforcement, and measurable learning engagement!
-
-____
 
 
 ---
@@ -346,8 +335,7 @@ This **ADDIE-inspired loop** ensures the project evolves through real classroom 
 | **Name** | Prashanthi |
 | **Designation** | Senior Instructional Designer | Process Trainer | QA & Process Improvement Specialist |
 | **LinkedIn** | [Prashanthi Narayan Rao](https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/) |
-| **GPT used** | [Math Lab Designer](https://chatgpt.com/g/g-68f64bf9b2688191bf035d4bd473080d-math-lab-designer) |
-|**Tested**    |[Number Quiz Fun].(https://chatgpt.com/canvas/shared/68fa1b1a53088191956026c8ea889683)|
+|**GPT Used**    |[Number Quiz Fun].(https://chatgpt.com/canvas/shared/68fa1b1a53088191956026c8ea889683)|
 | **Year** | 2025 |
 
 
